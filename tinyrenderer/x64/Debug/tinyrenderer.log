@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\IMikoto\Documents\VS_Files\ssloy_tinyrenderer\tinyrenderer\tinyrenderer\header\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“src/main.cpp”)
+  
+  tinyrenderer.vcxproj -> C:\Users\IMikoto\Documents\VS_Files\ssloy_tinyrenderer\tinyrenderer\x64\Debug\tinyrenderer.exe
